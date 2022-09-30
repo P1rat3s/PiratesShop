@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pirate\'s Shop</string>
+    <string name="_100_genuine">100% Genuine</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
